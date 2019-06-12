@@ -1,0 +1,10 @@
+[
+   {
+      "Repo":"ML-python-pytorch-mlpc-gpu-service",
+      "Tail":"-service"
+   },
+   {
+      "Repo":"ML-python-pytorch-mlpc-gpu-training",
+      "Tail":"-training"
+   }
+]
